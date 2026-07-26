@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Kairos</title>
+    <item>
+      <title>Version 1.0.0</title>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:minimumSystemVersion>0.0.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/kairos-theadityasarkar01/kairos/releases/latest/download/app-release.apk" sparkle:version="1.0.0" type="application/vnd.android.package-archive"/>
+    </item>
+  </channel>
+</rss>
