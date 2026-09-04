@@ -6,11 +6,18 @@
       <title>Version 1.0.6</title>
       <sparkle:version>1.0.6</sparkle:version>
       <sparkle:minimumSystemVersion>0.0.0</sparkle:minimumSystemVersion>
-      <description>A lot of stuff. Blahdahusiudafusfuwue BlahdahusiudafusfuwueBlahdahusiudafusfuwueBlahdahusiudafusfuwueBlahdahusiudafusfuwueBlahdahusiudafusfuwueBlahdahusiudafusfuwueBlahdahusiudafusfuwueBlahdahusiudafusfuwueBlahdahusiudafusfuwueBlahdahusiudafusfuwueBlahdahusiudafusfuwueBlahdahusiudafusfuwue -Yeah I wasnt kidding.</description>
+      <description>
+        A lot of stuff.
+        - Like a lot
+        - No Im not even joking rn.
+        - Bro seriously.
+        Why are you still even reading this????
+        Just click Update already gng
+      </description>
       <enclosure
         url="https://github.com/kairos-theadityasarkar01/kairos/releases/latest/download/app-release.apk"
         sparkle:version="1.0.6"
-        length="52428800"
+        length="65431142"
         type="application/vnd.android.package-archive"
       />
     </item>
