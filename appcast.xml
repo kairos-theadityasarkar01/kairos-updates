@@ -56,7 +56,7 @@
 - And other bug fixes and stability improvements
       </description>
       <enclosure
-        url="https://github.com/kairos-theadityasarkar01/kairos/releases/latest/download/app-release.apk"
+        url="https://github.com/kairos-theadityasarkar01/kairos-updates/releases/latest/download/app-release.apk"
         sparkle:version="1.1.0"
         length="65431142"
         type="application/vnd.android.package-archive"
