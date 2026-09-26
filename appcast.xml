@@ -3,20 +3,61 @@
   <channel>
     <title>Kairos</title>
     <item>
-      <title>Version 1.0.6</title>
-      <sparkle:version>1.0.6</sparkle:version>
+      <title>Version 1.1.0</title>
+      <sparkle:version>1.1.0</sparkle:version>
       <sparkle:minimumSystemVersion>0.0.0</sparkle:minimumSystemVersion>
       <description>
-        A lot of stuff.
-        - Like a lot
-        - No Im not even joking rn.
-        - Bro seriously.
-        Why are you still even reading this????
-        Just click Update already gng
+        v1.1.0 brings an entirely new and modern UI interface, along with a host of other new features.
+- Added glass UI across almost the entire app
+  - Input fields
+  - Buttons
+  - Menus
+    - Added smooth open and close menu animations
+- Added a new login/signup screen
+- New onboarding process
+- New settings screen
+- Customizable themes and colors
+- New memory screen
+- Support for BYOK with Gemini and Tavily
+- New message generation animation
+- Streaming support
+- Support for Photos via Camera, and Photos via Library
+- Basic support for opening chats while in other screens (UI upgrades to be added later)
+- Added plan-wise file upload limits
+- Nicer popup menus (to be turned into glass UI later)
+- Support for Interactions API (with interleaved tool calls) and tool UI
+- Proper error state handling and UI
+- Added Cairos Pages v1
+- Added Cairos To-Do/Tasks v1
+- Added top bar fade (and bottom fade in some places)
+- New API Plugins screen and API Tutorial screen
+- New file upload UI
+- Full screen nav bar
+- Added haptics on message received
+- Added a new and easy way to navigate through Cairos, a carousel
+- Stub screens for everything not built (hopefully everything atleast)
+- Search screen UI overhaul
+- New Update Available screen
+- Better light mode support
+- Switched to pure black in dark mode
+- New, dynamic time-aware greeting on chat screen
+- Support for a different default screen from chat
+- Faster launch time
+- Switched to Google Sans Flex and Google Sans in most of the app as the default font
+- Added new logo and wordmark
+- Added a better chat loading state
+- Full support for LaTeX and Markdown with gpt_markdown
+- New chat UI
+  - Pill shaped message bubble
+  - Better font size
+  - Selectable text
+  - Always visible copy, like, dislike and more buttons
+- Persistent file chips for files attached to messages
+- And other bug fixes and stability improvements
       </description>
       <enclosure
         url="https://github.com/kairos-theadityasarkar01/kairos/releases/latest/download/app-release.apk"
-        sparkle:version="1.0.6"
+        sparkle:version="1.1.0"
         length="65431142"
         type="application/vnd.android.package-archive"
       />
